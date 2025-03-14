@@ -1,3 +1,5 @@
+This file contains instructions for how to set up and run a project:
+
 Installation & Setup
 
 Clone the repository:
@@ -33,3 +35,5 @@ Run:
 
 php artisan migrate --seed  
 php artisan config:cache
+
+This is how to set up and run project, Thank you!
